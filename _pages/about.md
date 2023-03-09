@@ -21,4 +21,4 @@ Jianing Bai, Tianhao Zhang, Chen Wang, and Guangming Xie. MA-CC: Cross-Layer Con
 [Download paper here](http://jnbai517.github.io/files/Bai-SAI-2023.pdf)
 
 ## For more information
-More info about Ze Jiang can be found in [CV](http://jnbai517.github.io/files/JianingBai_CV.pdf).
+More info about Jianing Bai can be found in [CV](http://jnbai517.github.io/files/JianingBai_CV.pdf).
