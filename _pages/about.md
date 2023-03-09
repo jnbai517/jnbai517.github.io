@@ -13,7 +13,7 @@ This is Jianing Bai's personal homepage.
 ## A short introduction
 Jianing Bai is a master's candidate at Peking University who specializes in the fascinating field of ECE. Her research is centered on machine learning, power systems, backdoor attack, network systems, reinforcement learning, and control optimization.
 
-## Selected Journal Publications
+## Publications
 Jianing Bai, Ren Wang, and Zuyi Li. Physics-Constrained Backdoor Attacks on Power System Fault Localization. IEEE Power and Energy Society General Meeting 2023, IEEE. 
 [Download paper here](http://jnbai517.github.io/files/Bai-PESGM-2023.pdf)
 
