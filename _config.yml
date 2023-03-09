@@ -193,7 +193,7 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
-Defaults
+# Defaults
 defaults:
   # _posts
   - scope:
