@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  aaateaching:
     output: true
     permalink: /:collection/:path/
   publications:
