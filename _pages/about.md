@@ -20,7 +20,7 @@ Jianing Bai, Ren Wang, and Zuyi Li. Physics-Constrained Backdoor Attacks on Powe
 Jianing Bai, Tianhao Zhang, Chen Wang, and Guangming Xie. MA-CC: Cross-Layer Congestion Control via Multi-Agent Reinforcement Learning. Computing Conference 2023, Springer. 
 [Download paper here](http://jnbai517.github.io/files/Bai-SAI-2023.pdf)
 
-# Miscellaneous
+## Miscellaneous
 I'm also engaged (but an amateur) in Yoga / Guitar.
 
 ## For more information
