@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jianing Bai"
+title: "Jianing Bai 白佳凝"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
