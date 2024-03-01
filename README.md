@@ -2,7 +2,7 @@
 This is Jianing Bai's personal [homepage](https://jnbai517.github.io/).
 
 ## A short introduction
-I am a master's candidate at Peking University. My research focuses on machine learning, power systems, backdoor attack, network systems, reinforcement learning, and control optimization. I mainly use statistical tools to carry out my research works.
+I am a master student at Peking University (PKU). My research focuses on machine learning, power systems, backdoor attack, network systems, reinforcement learning, and control optimization. I mainly use statistical tools to carry out my research works.
 
 PROFILE:
 * Highly self-motivated researcher. 
