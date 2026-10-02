@@ -11,7 +11,7 @@ redirect_from:
 This is Jianing Bai's personal homepage. 
 
 ## A short introduction
-Jianing Bai is a master student at Peking University (PKU) who specializes in the fascinating field of ECE. Her research is centered on machine learning, power systems, backdoor attack, network systems, reinforcement learning, and control optimization.
+Jianing Bai is a Ph.D. student in Computer Science at The University of Texas at Arlington (UTA). Her research focuses on artificial intelligence for healthcare, particularly medical image analysis, multimodal neuroimaging, and machine learning for neurological disorders. Her current work explores the integration of structural MRI, PET imaging, and clinical information to model and predict cognitive decline and Alzheimer's disease progression.
 
 ## Publications
 Jianing Bai, Ren Wang, and Zuyi Li. Physics-Constrained Backdoor Attacks on Power System Fault Localization. IEEE Power and Energy Society General Meeting 2023, IEEE. 
