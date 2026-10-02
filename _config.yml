@@ -82,13 +82,13 @@ analytics:
 author: 
   name             : "Jianing Bai"
   avatar           : "profile.png"
-  bio              : "Master student at Peking University (PKU)"
-  location         : "Beijing, China"
+  bio              : "Ph.D. Student in Computer Science"
+  location         : "Arlington, TX, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=4iVouPYAAAAJ&hl=en"
-  email            : "jnbai@pku.org.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jianing-Bai-2"
+  googlescholar    : "https://scholar.google.com/citations?user=lLUCVMQAAAAJ&hl=zh-CN"
+  email            : "jnbai517@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Jianing-Bai-2"
   publons          : #"https://publons.com/researcher/3963266/ze-jiang/"
   uri              : 
   bitbucket        :
